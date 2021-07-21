@@ -1,2 +1,1 @@
 # image-categorizer
-# image-categorizer
