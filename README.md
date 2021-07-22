@@ -1,1 +1,1 @@
-# image-categorizer
+# image-recognizer
